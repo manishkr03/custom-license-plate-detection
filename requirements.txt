@@ -1,0 +1,11 @@
+opencv-python
+numpy
+skimage
+dlib
+tensorflow ==2.0
+keras
+Pillow
+pandas
+matplotlib
+shutil
+urllib
